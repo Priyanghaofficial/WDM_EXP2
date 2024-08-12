@@ -42,6 +42,7 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+![WhatsApp Image 2024-08-12 at 17 47 37_44d63c2c](https://github.com/user-attachments/assets/b6530f96-f051-4473-9098-1efc9a4dd70c)
 
 
 ### Procedure for Association Rules:
@@ -54,4 +55,7 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/678647e2-d3ff-4353-830a-5c4d7894a88f)
+
 ### RESULT: 
+
